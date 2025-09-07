@@ -44,29 +44,29 @@ HTML/CSSによるコーディングから、WordPressオリジナルテーマの
 
 ### ▼実績
 
-#### コーポレートサイト
+### コーポレートサイト
 オンラインスクールの卒業課題として、コーポレートサイトを WordPress オリジナルテーマで構築しました。
 WordPress の基本機能やテーマ開発の流れを実践を通じて習得し、運用を意識したサイト制作スキルを身につけることができました。
 
-##### デモ
-https://global-standard.r-webworks.com/
+#### デモ
+<a href="https://global-standard.r-webworks.com/" target="_blank">https://global-standard.r-webworks.com/</a>
 Basic認証 pass:demo user:demo
 
 
-#### パーソナルジム LPサイト
+### パーソナルジム LPサイト
 
-##### 概要
+#### 概要
 オンラインスクールの自由課題として作成したLPサイト。
 FLOCSS設計でコーディングし、WordPressテーマ化済み。
 カスタム投稿やカスタムフィールドでクライアントが更新しやすい構造。
 
-##### 使用技術
+#### 使用技術
 - HTML / CSS / SCSS / JavaScript
 - WordPress（オリジナルテーマ、カスタム投稿）
 - Gulp（自動コンパイル・圧縮）
 
-##### デモ
-https://melia.r-webworks.com/
+#### デモ
+<a href="https://melia.r-webworks.com/" target="_blank">https://melia.r-webworks.com/</a>
 
 
 ### ポートフォリオサイトはこちら

@@ -1,4 +1,4 @@
-## はじめまして、Webコーダーのryotaと申します。
+# Welcome to My GitHub Profile! 👋
 
 <!--
 **ryota-h-git/ryota-h-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -71,19 +71,20 @@ https://r-webworks.com
 ※納期の近い案件については稼働時間超えて柔軟に対応いたします！
 
 
-# Welcome to My GitHub Profile! 👋
 
-## 🚀 About Me
-- 💻 Full Stack Developer
-- 🌱 Learning React and Node.js
-- 👯 Looking to collaborate on web projects
-- 📫 How to reach me: your-email@example.com
+
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![SCSS](https://img.shields.io/badge/-SCSS-CD6799?style=flat-square&logo=sass&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) 
+![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)
+
+
+
 

@@ -24,21 +24,21 @@ HTML/CSSによるコーディングから、WordPressオリジナルテーマの
 - 変化の早いWeb業界で、業務と並行して常にスキル向上
 
 ### ▼スキル</br>
-HTML/CSS/SCSS
+#### HTML/CSS/SCSS
 - FLOCSS設計での効率的なコーディング
 - デザインカンプからのPerfect Pixel実装
 - レスポンシブ対応・アニメーション実装
 
-JavaScript/jQuery
+#### JavaScript/jQuery
 - スライダーやモーダルなどのUI実装
 - DOM操作による動的なページ演出
 
-WordPress
+#### WordPress
 - オリジナルテーマの開発
 - カスタム投稿タイプやカスタムフィールドの実装
 - クライアント様の更新を想定した管理画面のカスタマイズ
 
-Gulp
+#### Gulp
 - Sassコンパイル / 自動プレフィックス付与 / 画像圧縮
 - ファイル監視による効率的な開発フローの構築
 

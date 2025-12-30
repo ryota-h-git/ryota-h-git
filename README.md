@@ -26,9 +26,7 @@ WordPressオリジナルテーマ構築とFLOCSS設計を得意としていま�
 ---
 
 ## 📊 GitHub Stats
-![Ryota's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryota-h-git&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryota-h-git&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ryota-h-git&theme=radical)
 

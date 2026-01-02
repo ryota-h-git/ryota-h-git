@@ -20,7 +20,7 @@ WordPressオリジナルテーマ構築とFLOCSS設計を得意としていま�
 ---
 
 ## 📂 Works
-- [🌐 ポートフォリオサイト](https://https://r-webworks.com/)
+- [🌐 ポートフォリオサイト](https://r-webworks.com/)
 - [📦 WordPressテーマ（ポートフォリオ用）](https://github.com/ryota-h-git/portfolio-theme)
 
 ---

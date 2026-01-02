@@ -27,7 +27,7 @@ WordPressオリジナルテーマ構築とFLOCSS設計を得意としていま�
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ryota-h-git&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ryota-h-git&theme=radical)
 
 ---
 
